@@ -10,7 +10,7 @@ If you have additional questions or require more information about our Privacy P
 
 Storage of User IDs:
 
-At Rexa, we store user IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
+At Aegis, we store user IDs in our database to provide a personalized and enhanced user experience. This information helps us to deliver tailored services, such as tracking individual user progress, managing inventories, and ensuring a seamless interaction within our bot.
 
 Online Privacy Policy Only
 
